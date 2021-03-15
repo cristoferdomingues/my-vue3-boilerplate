@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
+    "start": "yarn run serve",
     "test": "jest"
   },
   "dependencies": {

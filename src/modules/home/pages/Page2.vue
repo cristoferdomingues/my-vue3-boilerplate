@@ -1,5 +1,5 @@
 <template>
-  <h1>Page 2</h1>
+  <h1>Page 2 Content</h1>
 </template>
 <script>
 export default {
